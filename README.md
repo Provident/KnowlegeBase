@@ -1,4 +1,5 @@
-KnowlegeBase
+KnowledgeBase
 ============
 
-KnowlegeBase
+Provident CRM's externally accessible KnowledgeBase
+
