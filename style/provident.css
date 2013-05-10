@@ -1,0 +1,25 @@
+body
+{
+    background-color:#d0e4fe;
+    color: #2E3888;
+}
+
+table {
+    text-align: center;
+}
+.td.footer-main {
+    height: 11px;
+    color: #2E3888;
+}
+.td.footer-icon {
+    height: 11px;
+    color: #D88621;
+}
+.td.footer-small {
+    height: 9px;
+    color: #D88621;
+}
+.td.footer-separator {
+    color: #C2D7E8;
+}
+

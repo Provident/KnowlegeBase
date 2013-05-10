@@ -1,6 +1,7 @@
 <?php
 /**  Provident DFox 10/05/2013  **/
 ?>
+<div><span align="center">
 <table>
     <tr>
         <td class="footer-main">Provident C.R.M. Ltd.</td>
@@ -19,3 +20,4 @@
         <td class="footer-small">VAT Registration No. IE9693105M</td>
     </tr>
 </table>
+</span></div>
